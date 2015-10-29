@@ -4,8 +4,6 @@ var request = require('request');
 var async = require('async');
 var docs = require('./docs.json');
 var fs = require('fs');
-var Entities = require('html-entities').AllHtmlEntities; 
-var entities = new Entities();
 var cheerio = require('cheerio');
 var _ = require('lodash');
 

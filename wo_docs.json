@@ -41,8 +41,9 @@
   },
   {
     "number": "002086745A2",
-    "actualNumber": "2002008674",
-    "publicationDate": "2002-01-31"
+    "actualNumber": "WO02086745A2",
+    "country": "WO",
+    "publicationDate": "2002-10-31"
   },
   {
     "number": "02001075646",
@@ -56,8 +57,9 @@
   },
   {
     "number": "02006011635A1",
-    "actualNumber": "2006001163",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO2006011635A1",
+    "country": "WO",
+    "publicationDate": "2006-02-02"
   },
   {
     "number": "02011004686",
@@ -91,7 +93,8 @@
   },
   {
     "number": "09833111A1",
-    "actualNumber": "1998033111",
+    "actualNumber": "WO9833111A1",
+    "country": "WO",
     "publicationDate": "1998-07-30"
   },
   {
@@ -101,18 +104,21 @@
   },
   {
     "number": "02009057151A2",
-    "actualNumber": "2009005715",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009057151A2",
+    "country": "WO",
+    "publicationDate": "2009-05-07"
   },
   {
     "number": "02007140404A2",
-    "actualNumber": "2007014040",
-    "publicationDate": "2007-02-01"
+    "actualNumber": "WO2007140404A2",
+    "country": "WO",
+    "publicationDate": "2007-12-06"
   },
   {
     "number": "02004010365A3",
-    "actualNumber": "2004001036",
-    "publicationDate": "2003-12-31"
+    "actualNumber": "WO2004010365A3",
+    "country": "WO",
+    "publicationDate": "2004-07-01"
   },
   {
     "number": "00109664",
@@ -131,8 +137,9 @@
   },
   {
     "number": "02008075324A1",
-    "actualNumber": "2008007532",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008075324A1",
+    "country": "WO",
+    "publicationDate": "2008-06-26"
   },
   {
     "number": "02002037848",
@@ -146,8 +153,9 @@
   },
   {
     "number": "020090037519A1",
-    "actualNumber": "2009000375",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO20090037519A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02012036947",
@@ -161,33 +169,39 @@
   },
   {
     "number": "00120391A1",
-    "actualNumber": "2001020391",
+    "actualNumber": "WO0120391A1",
+    "country": "WO",
     "publicationDate": "2001-03-22"
   },
   {
     "number": "02008079750A3",
-    "actualNumber": "2008007975",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008079750A3",
+    "country": "WO",
+    "publicationDate": "2008-10-02"
   },
   {
     "number": "02009078957A1",
-    "actualNumber": "2009007895",
-    "publicationDate": "2009-01-15"
+    "actualNumber": "WO2009078957A1",
+    "country": "WO",
+    "publicationDate": "2009-06-25"
   },
   {
     "number": "01999052083A1",
-    "actualNumber": "1999005208",
-    "publicationDate": "1999-02-04"
+    "actualNumber": "WO1999052083A1",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02009038902A1",
-    "actualNumber": "2009003890",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009038902A1",
+    "country": "WO",
+    "publicationDate": "2009-03-26"
   },
   {
     "number": "003050659A2",
-    "actualNumber": "2003005065",
-    "publicationDate": "2003-01-16"
+    "actualNumber": "WO03050659A2",
+    "country": "WO",
+    "publicationDate": "2003-06-19"
   },
   {
     "number": "02010113075",
@@ -201,73 +215,87 @@
   },
   {
     "number": "02006042300A2",
-    "actualNumber": "2006004230",
-    "publicationDate": "2006-01-12"
+    "actualNumber": "WO2006042300A2",
+    "country": "WO",
+    "publicationDate": "2006-04-20"
   },
   {
     "number": "09515659A1",
-    "actualNumber": "1995015659",
+    "actualNumber": "WO9515659A1",
+    "country": "WO",
     "publicationDate": "1995-06-08"
   },
   {
     "number": "09739577A1",
-    "actualNumber": "1997039577",
+    "actualNumber": "WO9739577A1",
+    "country": "WO",
     "publicationDate": "1997-10-23"
   },
   {
     "number": "02004070970A1",
-    "actualNumber": "2004007097",
-    "publicationDate": "2004-01-22"
+    "actualNumber": "WO2004070970A1",
+    "country": "WO",
+    "publicationDate": "2004-08-19"
   },
   {
     "number": "02004109488A2",
-    "actualNumber": "2004010948",
-    "publicationDate": "2004-02-05"
+    "actualNumber": "WO2004109488A2",
+    "country": "WO",
+    "publicationDate": "2004-12-16"
   },
   {
     "number": "09938149A1",
-    "actualNumber": "1999038149",
+    "actualNumber": "WO9938149A1",
+    "country": "WO",
     "publicationDate": "1999-07-29"
   },
   {
     "number": "09951027A1",
-    "actualNumber": "1999051027",
+    "actualNumber": "WO9951027A1",
+    "country": "WO",
     "publicationDate": "1999-10-07"
   },
   {
     "number": "02006048875A2",
-    "actualNumber": "2006004887",
-    "publicationDate": "2006-01-12"
+    "actualNumber": "WO2006048875A2",
+    "country": "WO",
+    "publicationDate": "2006-05-11"
   },
   {
     "number": "02010025309A1",
-    "actualNumber": "2010002530",
-    "publicationDate": "2010-01-07"
+    "actualNumber": "WO2010025309A1",
+    "country": "WO",
+    "publicationDate": "2010-03-04"
   },
   {
     "number": "02004049257A2",
-    "actualNumber": "2004004925",
-    "publicationDate": "2004-01-15"
+    "actualNumber": "WO2004049257A2",
+    "country": "WO",
+    "publicationDate": "2004-06-10"
   },
   {
     "number": "02006120146A2",
-    "actualNumber": "2006012014",
-    "publicationDate": "2006-02-02"
+    "actualNumber": "WO2006120146A2",
+    "country": "WO",
+    "publicationDate": "2006-11-16"
   },
   {
     "number": "02005059880A1",
-    "actualNumber": "2005005988",
-    "publicationDate": "2005-01-20"
+    "actualNumber": "WO2005059880A1",
+    "country": "WO",
+    "publicationDate": "2005-06-30"
   },
   {
     "number": "02009001512A1",
-    "actualNumber": "2009000151",
+    "actualNumber": "WO2009001512A1",
+    "country": "WO",
     "publicationDate": "2008-12-31"
   },
   {
     "number": "02010073547A1",
-    "actualNumber": "2010007354",
-    "publicationDate": "2010-01-21"
+    "actualNumber": "WO2010073547A1",
+    "country": "WO",
+    "publicationDate": "2010-07-01"
   },
   {
     "number": "0WO0214448",
@@ -276,53 +304,63 @@
   },
   {
     "number": "00001164A2",
-    "actualNumber": "2000000116",
+    "actualNumber": "WO0001164A2",
+    "country": "WO",
     "publicationDate": "2000-01-06"
   },
   {
     "number": "02004054239A1",
-    "actualNumber": "2004005423",
-    "publicationDate": "2004-01-15"
+    "actualNumber": "WO2004054239A1",
+    "country": "WO",
+    "publicationDate": "2004-06-24"
   },
   {
     "number": "02005106652A1",
-    "actualNumber": "2005010665",
-    "publicationDate": "2005-02-03"
+    "actualNumber": "WO2005106652A1",
+    "country": "WO",
+    "publicationDate": "2005-11-10"
   },
   {
     "number": "09952083A1",
-    "actualNumber": "1999052083",
+    "actualNumber": "WO9952083A1",
+    "country": "WO",
     "publicationDate": "1999-10-14"
   },
   {
     "number": "02008109622A1",
-    "actualNumber": "2008010962",
-    "publicationDate": "2008-01-24"
+    "actualNumber": "WO2008109622A1",
+    "country": "WO",
+    "publicationDate": "2008-09-12"
   },
   {
     "number": "02006003066A2",
-    "actualNumber": "2006000306",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO2006003066A2",
+    "country": "WO",
+    "publicationDate": "2006-01-12"
   },
   {
     "number": "02005001714A1",
-    "actualNumber": "2005000171",
+    "actualNumber": "WO2005001714A1",
+    "country": "WO",
     "publicationDate": "2005-01-06"
   },
   {
     "number": "02001075645A1",
-    "actualNumber": "2001007564",
-    "publicationDate": "2001-02-01"
+    "actualNumber": "WO2001075645A1",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02005001658A2",
-    "actualNumber": "2005000165",
+    "actualNumber": "WO2005001658A2",
+    "country": "WO",
     "publicationDate": "2005-01-06"
   },
   {
     "number": "02005003147A2",
-    "actualNumber": "2005000314",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005003147A2",
+    "country": "WO",
+    "publicationDate": "2005-01-13"
   },
   {
     "number": "02010105006",
@@ -351,18 +389,21 @@
   },
   {
     "number": "02000055814A3",
-    "actualNumber": "2000005581",
-    "publicationDate": "2000-02-03"
+    "actualNumber": "WO2000055814A3",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02001035326A1",
-    "actualNumber": "2001003532",
-    "publicationDate": "2001-01-18"
+    "actualNumber": "WO2001035326A1",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02002103618A8",
-    "actualNumber": "2002010361",
-    "publicationDate": "2002-02-07"
+    "actualNumber": "WO2002103618A8",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "020020093272",
@@ -376,33 +417,39 @@
   },
   {
     "number": "002075654A2",
-    "actualNumber": "2002007565",
-    "publicationDate": "2002-01-31"
+    "actualNumber": "WO02075654A2",
+    "country": "WO",
+    "publicationDate": "2002-09-26"
   },
   {
     "number": "02011100148A1",
-    "actualNumber": "2011010014",
-    "publicationDate": "2011-01-27"
+    "actualNumber": "WO2011100148A1",
+    "country": "WO",
+    "publicationDate": "2011-08-18"
   },
   {
     "number": "09845815A1",
-    "actualNumber": "1998045815",
+    "actualNumber": "WO9845815A1",
+    "country": "WO",
     "publicationDate": "1998-10-15"
   },
   {
     "number": "00209039A2",
-    "actualNumber": "2002009039",
+    "actualNumber": "WO0209039A2",
+    "country": "WO",
     "publicationDate": "2002-01-31"
   },
   {
     "number": "02004027707A2",
-    "actualNumber": "2004002770",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004027707A2",
+    "country": "WO",
+    "publicationDate": "2004-04-01"
   },
   {
     "number": "00972273A1",
-    "actualNumber": "2009072273",
-    "publicationDate": "2009-06-11"
+    "actualNumber": "WO0972273A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "0WO9919412",
@@ -411,33 +458,39 @@
   },
   {
     "number": "00055814A2",
-    "actualNumber": "2000005581",
-    "publicationDate": "2000-02-03"
+    "actualNumber": "WO0055814A2",
+    "country": "WO",
+    "publicationDate": "2000-09-21"
   },
   {
     "number": "00135326A1",
-    "actualNumber": "2001035326",
+    "actualNumber": "WO0135326A1",
+    "country": "WO",
     "publicationDate": "2001-05-17"
   },
   {
     "number": "002097720A1",
-    "actualNumber": "2002009772",
-    "publicationDate": "2002-02-07"
+    "actualNumber": "WO02097720A1",
+    "country": "WO",
+    "publicationDate": "2002-12-05"
   },
   {
     "number": "002103618A1",
-    "actualNumber": "2002010361",
-    "publicationDate": "2002-02-07"
+    "actualNumber": "WO02103618A1",
+    "country": "WO",
+    "publicationDate": "2002-12-27"
   },
   {
     "number": "02006019350A1",
-    "actualNumber": "2006001935",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO2006019350A1",
+    "country": "WO",
+    "publicationDate": "2006-02-23"
   },
   {
     "number": "02009064172A1",
-    "actualNumber": "2009006417",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009064172A1",
+    "country": "WO",
+    "publicationDate": "2009-05-22"
   },
   {
     "number": "02011126511",
@@ -446,8 +499,9 @@
   },
   {
     "number": "02007091243A2",
-    "actualNumber": "2007009124",
-    "publicationDate": "2007-01-18"
+    "actualNumber": "WO2007091243A2",
+    "country": "WO",
+    "publicationDate": "2007-08-16"
   },
   {
     "number": "020010031893",
@@ -481,17 +535,20 @@
   },
   {
     "number": "02009157915A1",
-    "actualNumber": "2009015791",
-    "publicationDate": "2009-02-05"
+    "actualNumber": "WO2009157915A1",
+    "country": "WO",
+    "publicationDate": "2009-12-30"
   },
   {
     "number": "020090005497A1",
-    "actualNumber": "2009000054",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO20090005497A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "00165413A1",
-    "actualNumber": "2001065413",
+    "actualNumber": "WO0165413A1",
+    "country": "WO",
     "publicationDate": "2001-09-07"
   },
   {
@@ -501,13 +558,15 @@
   },
   {
     "number": "02009064086A1",
-    "actualNumber": "2009006408",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009064086A1",
+    "country": "WO",
+    "publicationDate": "2009-05-22"
   },
   {
     "number": "02005074297A1",
-    "actualNumber": "2005007429",
-    "publicationDate": "2005-01-27"
+    "actualNumber": "WO2005074297A1",
+    "country": "WO",
+    "publicationDate": "2005-08-11"
   },
   {
     "number": "02008120879",
@@ -526,7 +585,8 @@
   },
   {
     "number": "00120547A1",
-    "actualNumber": "2001020547",
+    "actualNumber": "WO0120547A1",
+    "country": "WO",
     "publicationDate": "2001-03-22"
   },
   {
@@ -676,8 +736,9 @@
   },
   {
     "number": "02009005497A1",
-    "actualNumber": "2009000549",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009005497A1",
+    "country": "WO",
+    "publicationDate": "2009-01-08"
   },
   {
     "number": "02007075622",
@@ -736,8 +797,9 @@
   },
   {
     "number": "02008153728A2",
-    "actualNumber": "2008015372",
-    "publicationDate": "2008-02-07"
+    "actualNumber": "WO2008153728A2",
+    "country": "WO",
+    "publicationDate": "2008-12-18"
   },
   {
     "number": "001065413",
@@ -756,8 +818,9 @@
   },
   {
     "number": "02011031413A1",
-    "actualNumber": "2011003141",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011031413A1",
+    "country": "WO",
+    "publicationDate": "2011-03-17"
   },
   {
     "number": "02008048809",
@@ -826,8 +889,9 @@
   },
   {
     "number": "02009042563A1",
-    "actualNumber": "2009004256",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009042563A1",
+    "country": "WO",
+    "publicationDate": "2009-04-02"
   },
   {
     "number": "02012039307",
@@ -851,13 +915,15 @@
   },
   {
     "number": "02000048161A2",
-    "actualNumber": "2000004816",
-    "publicationDate": "2000-02-03"
+    "actualNumber": "WO2000048161A2",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "01995011168A1",
-    "actualNumber": "1995001116",
-    "publicationDate": "1995-01-12"
+    "actualNumber": "WO1995011168A1",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02012100183",
@@ -876,8 +942,9 @@
   },
   {
     "number": "02007125285A1",
-    "actualNumber": "2007012528",
-    "publicationDate": "2007-02-01"
+    "actualNumber": "WO2007125285A1",
+    "country": "WO",
+    "publicationDate": "2007-11-08"
   },
   {
     "number": "09320546",
@@ -1086,7 +1153,8 @@
   },
   {
     "number": "02007001280A1",
-    "actualNumber": "2007000128",
+    "actualNumber": "WO2007001280A1",
+    "country": "WO",
     "publicationDate": "2007-01-04"
   },
   {
@@ -1096,18 +1164,21 @@
   },
   {
     "number": "02013123009A1",
-    "actualNumber": "2013012300",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013123009A1",
+    "country": "WO",
+    "publicationDate": "2013-08-22"
   },
   {
     "number": "02012118971A2",
-    "actualNumber": "2012011897",
-    "publicationDate": "2012-01-26"
+    "actualNumber": "WO2012118971A2",
+    "country": "WO",
+    "publicationDate": "2012-09-07"
   },
   {
     "number": "02013112810A1",
-    "actualNumber": "2013011281",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013112810A1",
+    "country": "WO",
+    "publicationDate": "2013-08-01"
   },
   {
     "number": "02013004417",
@@ -1121,28 +1192,33 @@
   },
   {
     "number": "02008016424A1",
-    "actualNumber": "2008001642",
-    "publicationDate": "2008-01-03"
+    "actualNumber": "WO2008016424A1",
+    "country": "WO",
+    "publicationDate": "2008-02-07"
   },
   {
     "number": "02009107420A1",
-    "actualNumber": "2009010742",
-    "publicationDate": "2009-01-22"
+    "actualNumber": "WO2009107420A1",
+    "country": "WO",
+    "publicationDate": "2009-09-03"
   },
   {
     "number": "02012176109A1",
-    "actualNumber": "2012017610",
-    "publicationDate": "2012-02-09"
+    "actualNumber": "WO2012176109A1",
+    "country": "WO",
+    "publicationDate": "2012-12-27"
   },
   {
     "number": "02004075553A1",
-    "actualNumber": "2004007555",
-    "publicationDate": "2004-01-22"
+    "actualNumber": "WO2004075553A1",
+    "country": "WO",
+    "publicationDate": "2004-09-02"
   },
   {
     "number": "012176109A1",
-    "actualNumber": "12176109A1",
-    "publicationDate": "2012-12-27"
+    "actualNumber": "WO12176109A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02006087284",
@@ -1156,8 +1232,9 @@
   },
   {
     "number": "02006025209A1",
-    "actualNumber": "2006002520",
-    "publicationDate": "2006-01-12"
+    "actualNumber": "WO2006025209A1",
+    "country": "WO",
+    "publicationDate": "2006-03-09"
   },
   {
     "number": "0WO9734810",
@@ -1206,13 +1283,15 @@
   },
   {
     "number": "02010059188A2",
-    "actualNumber": "2010005918",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010059188A2",
+    "country": "WO",
+    "publicationDate": "2010-05-27"
   },
   {
     "number": "02012021507A2",
-    "actualNumber": "2012002150",
-    "publicationDate": "2012-01-05"
+    "actualNumber": "WO2012021507A2",
+    "country": "WO",
+    "publicationDate": "2012-02-16"
   },
   {
     "number": "00123214",
@@ -1221,23 +1300,27 @@
   },
   {
     "number": "09726750A1",
-    "actualNumber": "1997026750",
+    "actualNumber": "WO9726750A1",
+    "country": "WO",
     "publicationDate": "1997-07-24"
   },
   {
     "number": "02006022824A2",
-    "actualNumber": "2006002282",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO2006022824A2",
+    "country": "WO",
+    "publicationDate": "2006-03-02"
   },
   {
     "number": "00146710A2",
-    "actualNumber": "2001046710",
+    "actualNumber": "WO0146710A2",
+    "country": "WO",
     "publicationDate": "2001-06-28"
   },
   {
     "number": "00028410A1",
-    "actualNumber": "2000002841",
-    "publicationDate": "2000-01-20"
+    "actualNumber": "WO0028410A1",
+    "country": "WO",
+    "publicationDate": "2000-05-18"
   },
   {
     "number": "00048033",
@@ -1256,33 +1339,39 @@
   },
   {
     "number": "09600957A1",
-    "actualNumber": "1996000957",
+    "actualNumber": "WO9600957A1",
+    "country": "WO",
     "publicationDate": "1996-01-11"
   },
   {
     "number": "08809023A1",
-    "actualNumber": "1988009023",
+    "actualNumber": "WO8809023A1",
+    "country": "WO",
     "publicationDate": "1988-11-17"
   },
   {
     "number": "00007150A1",
-    "actualNumber": "2000000715",
-    "publicationDate": "2000-01-06"
+    "actualNumber": "WO0007150A1",
+    "country": "WO",
+    "publicationDate": "2000-02-10"
   },
   {
     "number": "02011055743A1",
-    "actualNumber": "2011005574",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011055743A1",
+    "country": "WO",
+    "publicationDate": "2011-05-12"
   },
   {
     "number": "09940545A1",
-    "actualNumber": "1999040545",
+    "actualNumber": "WO9940545A1",
+    "country": "WO",
     "publicationDate": "1999-08-12"
   },
   {
     "number": "02011033968A1",
-    "actualNumber": "2011003396",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011033968A1",
+    "country": "WO",
+    "publicationDate": "2011-03-24"
   },
   {
     "number": "09962741",
@@ -1326,13 +1415,15 @@
   },
   {
     "number": "02011042899A1",
-    "actualNumber": "2011004289",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011042899A1",
+    "country": "WO",
+    "publicationDate": "2011-04-14"
   },
   {
     "number": "02005122084A1",
-    "actualNumber": "2005012208",
-    "publicationDate": "2005-02-10"
+    "actualNumber": "WO2005122084A1",
+    "country": "WO",
+    "publicationDate": "2005-12-22"
   },
   {
     "number": "02011131164",
@@ -1341,13 +1432,15 @@
   },
   {
     "number": "0199749057A2",
-    "actualNumber": "1997049057",
-    "publicationDate": "1997-12-24"
+    "actualNumber": "WO199749057A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02011014413A2",
-    "actualNumber": "2011001441",
-    "publicationDate": "2011-01-06"
+    "actualNumber": "WO2011014413A2",
+    "country": "WO",
+    "publicationDate": "2011-02-03"
   },
   {
     "number": "02009019696",
@@ -1356,8 +1449,9 @@
   },
   {
     "number": "0199107719A2",
-    "actualNumber": "1991007719",
-    "publicationDate": "1991-05-30"
+    "actualNumber": "WO199107719A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "0200850096",
@@ -1371,8 +1465,9 @@
   },
   {
     "number": "00038052A1",
-    "actualNumber": "2000003805",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0038052A1",
+    "country": "WO",
+    "publicationDate": "2000-06-29"
   },
   {
     "number": "02006032846",
@@ -1381,18 +1476,21 @@
   },
   {
     "number": "02014121097A1",
-    "actualNumber": "2014012109",
-    "publicationDate": "2014-01-16"
+    "actualNumber": "WO2014121097A1",
+    "country": "WO",
+    "publicationDate": "2014-08-07"
   },
   {
     "number": "02010042449A2",
-    "actualNumber": "2010004244",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010042449A2",
+    "country": "WO",
+    "publicationDate": "2010-04-15"
   },
   {
     "number": "02008064363A2",
-    "actualNumber": "2008006436",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008064363A2",
+    "country": "WO",
+    "publicationDate": "2008-05-29"
   },
   {
     "number": "0200169572",
@@ -1436,8 +1534,9 @@
   },
   {
     "number": "02007101785A1",
-    "actualNumber": "2007010178",
-    "publicationDate": "2007-01-25"
+    "actualNumber": "WO2007101785A1",
+    "country": "WO",
+    "publicationDate": "2007-09-13"
   },
   {
     "number": "02012124939",
@@ -1446,23 +1545,27 @@
   },
   {
     "number": "02011145304A1",
-    "actualNumber": "2011014530",
-    "publicationDate": "2011-02-03"
+    "actualNumber": "WO2011145304A1",
+    "country": "WO",
+    "publicationDate": "2011-11-24"
   },
   {
     "number": "02012060039A1",
-    "actualNumber": "2012006003",
-    "publicationDate": "2012-01-12"
+    "actualNumber": "WO2012060039A1",
+    "country": "WO",
+    "publicationDate": "2012-05-10"
   },
   {
     "number": "02007096992A1",
-    "actualNumber": "2007009699",
-    "publicationDate": "2007-01-25"
+    "actualNumber": "WO2007096992A1",
+    "country": "WO",
+    "publicationDate": "2007-08-30"
   },
   {
     "number": "003065859A3",
-    "actualNumber": "2003006585",
-    "publicationDate": "2003-01-23"
+    "actualNumber": "WO03065859A3",
+    "country": "WO",
+    "publicationDate": "2003-12-31"
   },
   {
     "number": "09822389",
@@ -1551,13 +1654,15 @@
   },
   {
     "number": "02002019661A3",
-    "actualNumber": "2002001966",
-    "publicationDate": "2002-01-10"
+    "actualNumber": "WO2002019661A3",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "01999033188A2",
-    "actualNumber": "1999003318",
-    "publicationDate": "1999-01-21"
+    "actualNumber": "WO1999033188A2",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "01999003238",
@@ -1566,78 +1671,93 @@
   },
   {
     "number": "00042741A1",
-    "actualNumber": "2000004274",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0042741A1",
+    "country": "WO",
+    "publicationDate": "2000-07-20"
   },
   {
     "number": "00190902A1",
-    "actualNumber": "2001090902",
+    "actualNumber": "WO0190902A1",
+    "country": "WO",
     "publicationDate": "2001-11-29"
   },
   {
     "number": "00072142A1",
-    "actualNumber": "2000007214",
-    "publicationDate": "2000-02-10"
+    "actualNumber": "WO0072142A1",
+    "country": "WO",
+    "publicationDate": "2000-11-30"
   },
   {
     "number": "00193477A1",
-    "actualNumber": "2001093477",
+    "actualNumber": "WO0193477A1",
+    "country": "WO",
     "publicationDate": "2001-12-06"
   },
   {
     "number": "09008360A1",
-    "actualNumber": "1990008360",
+    "actualNumber": "WO9008360A1",
+    "country": "WO",
     "publicationDate": "1990-07-26"
   },
   {
     "number": "09957656A1",
-    "actualNumber": "1999057656",
+    "actualNumber": "WO9957656A1",
+    "country": "WO",
     "publicationDate": "1999-11-11"
   },
   {
     "number": "09933188A2",
-    "actualNumber": "1999033188",
+    "actualNumber": "WO9933188A2",
+    "country": "WO",
     "publicationDate": "1999-07-01"
   },
   {
     "number": "00219661A2",
-    "actualNumber": "2002019661",
+    "actualNumber": "WO0219661A2",
+    "country": "WO",
     "publicationDate": "2002-03-07"
   },
   {
     "number": "02005024557A2",
-    "actualNumber": "2005002455",
-    "publicationDate": "2005-01-13"
+    "actualNumber": "WO2005024557A2",
+    "country": "WO",
+    "publicationDate": "2005-03-17"
   },
   {
     "number": "00171524A1",
-    "actualNumber": "2001071524",
+    "actualNumber": "WO0171524A1",
+    "country": "WO",
     "publicationDate": "2001-09-27"
   },
   {
     "number": "00180013A1",
-    "actualNumber": "2001080013",
+    "actualNumber": "WO0180013A1",
+    "country": "WO",
     "publicationDate": "2001-10-25"
   },
   {
     "number": "02005004408A1",
-    "actualNumber": "2005000440",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005004408A1",
+    "country": "WO",
+    "publicationDate": "2005-01-13"
   },
   {
     "number": "09903238A2",
-    "actualNumber": "1999003238",
+    "actualNumber": "WO9903238A2",
+    "country": "WO",
     "publicationDate": "1999-01-21"
   },
   {
     "number": "09836537A1",
-    "actualNumber": "1998036537",
+    "actualNumber": "WO9836537A1",
+    "country": "WO",
     "publicationDate": "1998-08-20"
   },
   {
     "number": "02009137206A2",
-    "actualNumber": "2009013720",
-    "publicationDate": "2009-01-29"
+    "actualNumber": "WO2009137206A2",
+    "country": "WO",
+    "publicationDate": "2009-11-12"
   },
   {
     "number": "02006058051",
@@ -1656,23 +1776,27 @@
   },
   {
     "number": "02009056947A2",
-    "actualNumber": "2009005694",
-    "publicationDate": "2009-01-08"
+    "actualNumber": "WO2009056947A2",
+    "country": "WO",
+    "publicationDate": "2009-05-07"
   },
   {
     "number": "02005123210A2",
-    "actualNumber": "2005012321",
-    "publicationDate": "2005-02-10"
+    "actualNumber": "WO2005123210A2",
+    "country": "WO",
+    "publicationDate": "2005-12-29"
   },
   {
     "number": "09834195A1",
-    "actualNumber": "1998034195",
+    "actualNumber": "WO9834195A1",
+    "country": "WO",
     "publicationDate": "1998-08-06"
   },
   {
     "number": "02013086663A1",
-    "actualNumber": "2013008666",
-    "publicationDate": "2013-01-17"
+    "actualNumber": "WO2013086663A1",
+    "country": "WO",
+    "publicationDate": "2013-06-20"
   },
   {
     "number": "00169830",
@@ -1681,8 +1805,9 @@
   },
   {
     "number": "0199811592A1",
-    "actualNumber": "1998011592",
-    "publicationDate": "1998-03-19"
+    "actualNumber": "WO199811592A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02012118971",
@@ -1706,23 +1831,27 @@
   },
   {
     "number": "02013086268A1",
-    "actualNumber": "2013008626",
-    "publicationDate": "2013-01-17"
+    "actualNumber": "WO2013086268A1",
+    "country": "WO",
+    "publicationDate": "2013-06-13"
   },
   {
     "number": "02013096261A1",
-    "actualNumber": "2013009626",
-    "publicationDate": "2013-01-17"
+    "actualNumber": "WO2013096261A1",
+    "country": "WO",
+    "publicationDate": "2013-06-27"
   },
   {
     "number": "02013103655A1",
-    "actualNumber": "2013010365",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013103655A1",
+    "country": "WO",
+    "publicationDate": "2013-07-11"
   },
   {
     "number": "00038052A1",
-    "actualNumber": "2000003805",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0038052A1",
+    "country": "WO",
+    "publicationDate": "2000-06-29"
   },
   {
     "number": "02010069500",
@@ -1736,13 +1865,15 @@
   },
   {
     "number": "02012145393A1",
-    "actualNumber": "2012014539",
-    "publicationDate": "2012-02-02"
+    "actualNumber": "WO2012145393A1",
+    "country": "WO",
+    "publicationDate": "2012-10-26"
   },
   {
     "number": "02012087245A2",
-    "actualNumber": "2012008724",
-    "publicationDate": "2012-01-19"
+    "actualNumber": "WO2012087245A2",
+    "country": "WO",
+    "publicationDate": "2012-06-28"
   },
   {
     "number": "02013163378",
@@ -1766,23 +1897,27 @@
   },
   {
     "number": "02008062577A1",
-    "actualNumber": "2008006257",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008062577A1",
+    "country": "WO",
+    "publicationDate": "2008-05-29"
   },
   {
     "number": "02009157500A1",
-    "actualNumber": "2009015750",
-    "publicationDate": "2009-02-05"
+    "actualNumber": "WO2009157500A1",
+    "country": "WO",
+    "publicationDate": "2009-12-30"
   },
   {
     "number": "09850861A1",
-    "actualNumber": "1998050861",
+    "actualNumber": "WO9850861A1",
+    "country": "WO",
     "publicationDate": "1998-11-12"
   },
   {
     "number": "02006092552A1",
-    "actualNumber": "2006009255",
-    "publicationDate": "2006-01-26"
+    "actualNumber": "WO2006092552A1",
+    "country": "WO",
+    "publicationDate": "2006-09-08"
   },
   {
     "number": "02010143005",
@@ -1796,13 +1931,15 @@
   },
   {
     "number": "09915995A1",
-    "actualNumber": "1999015995",
+    "actualNumber": "WO9915995A1",
+    "country": "WO",
     "publicationDate": "1999-04-01"
   },
   {
     "number": "02010049918A1",
-    "actualNumber": "2010004991",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010049918A1",
+    "country": "WO",
+    "publicationDate": "2010-05-06"
   },
   {
     "number": "02009144335",
@@ -1821,18 +1958,21 @@
   },
   {
     "number": "02014147285A1",
-    "actualNumber": "2014014728",
-    "publicationDate": "2014-01-23"
+    "actualNumber": "WO2014147285A1",
+    "country": "WO",
+    "publicationDate": "2014-09-25"
   },
   {
     "number": "02011109454A1",
-    "actualNumber": "2011010945",
-    "publicationDate": "2011-01-27"
+    "actualNumber": "WO2011109454A1",
+    "country": "WO",
+    "publicationDate": "2011-09-09"
   },
   {
     "number": "020060127108A2",
-    "actualNumber": "2006001271",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO20060127108A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02009097045",
@@ -1861,13 +2001,15 @@
   },
   {
     "number": "002080745A1",
-    "actualNumber": "2002008074",
-    "publicationDate": "2002-01-31"
+    "actualNumber": "WO02080745A1",
+    "country": "WO",
+    "publicationDate": "2002-10-17"
   },
   {
     "number": "02013134451A1",
-    "actualNumber": "2013013445",
-    "publicationDate": "2013-01-31"
+    "actualNumber": "WO2013134451A1",
+    "country": "WO",
+    "publicationDate": "2013-09-12"
   },
   {
     "number": "02008050097",
@@ -1886,23 +2028,27 @@
   },
   {
     "number": "02010042461A1",
-    "actualNumber": "2010004246",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010042461A1",
+    "country": "WO",
+    "publicationDate": "2010-04-15"
   },
   {
     "number": "00042891A1",
-    "actualNumber": "2000004289",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0042891A1",
+    "country": "WO",
+    "publicationDate": "2000-07-27"
   },
   {
     "number": "002087400A1",
-    "actualNumber": "2002008740",
-    "publicationDate": "2002-01-31"
+    "actualNumber": "WO02087400A1",
+    "country": "WO",
+    "publicationDate": "2002-11-07"
   },
   {
     "number": "003005295A1",
-    "actualNumber": "2003000529",
-    "publicationDate": "2003-01-03"
+    "actualNumber": "WO03005295A1",
+    "country": "WO",
+    "publicationDate": "2003-01-16"
   },
   {
     "number": "02012078668",
@@ -1931,8 +2077,9 @@
   },
   {
     "number": "003043470A1",
-    "actualNumber": "2003004347",
-    "publicationDate": "2003-01-16"
+    "actualNumber": "WO03043470A1",
+    "country": "WO",
+    "publicationDate": "2003-05-30"
   },
   {
     "number": "02011116198",
@@ -1946,8 +2093,9 @@
   },
   {
     "number": "02013133870A2",
-    "actualNumber": "2013013387",
-    "publicationDate": "2013-01-31"
+    "actualNumber": "WO2013133870A2",
+    "country": "WO",
+    "publicationDate": "2013-09-12"
   },
   {
     "number": "02011099408",
@@ -1986,8 +2134,9 @@
   },
   {
     "number": "02005032570A1",
-    "actualNumber": "2005003257",
-    "publicationDate": "2005-01-13"
+    "actualNumber": "WO2005032570A1",
+    "country": "WO",
+    "publicationDate": "2005-04-14"
   },
   {
     "number": "02011062000",
@@ -2021,8 +2170,9 @@
   },
   {
     "number": "02012078718A1",
-    "actualNumber": "2012007871",
-    "publicationDate": "2012-01-19"
+    "actualNumber": "WO2012078718A1",
+    "country": "WO",
+    "publicationDate": "2012-06-14"
   },
   {
     "number": "02008113030",
@@ -2036,23 +2186,27 @@
   },
   {
     "number": "09608990A1",
-    "actualNumber": "1996008990",
+    "actualNumber": "WO9608990A1",
+    "country": "WO",
     "publicationDate": "1996-03-28"
   },
   {
     "number": "02005123032A2",
-    "actualNumber": "2005012303",
-    "publicationDate": "2005-02-10"
+    "actualNumber": "WO2005123032A2",
+    "country": "WO",
+    "publicationDate": "2005-12-29"
   },
   {
     "number": "02005123032A8",
-    "actualNumber": "2005012303",
-    "publicationDate": "2005-02-10"
+    "actualNumber": "WO2005123032A8",
+    "country": "WO",
+    "publicationDate": "2007-03-01"
   },
   {
     "number": "02011134656A1",
-    "actualNumber": "2011013465",
-    "publicationDate": "2011-02-03"
+    "actualNumber": "WO2011134656A1",
+    "country": "WO",
+    "publicationDate": "2011-11-03"
   },
   {
     "number": "02015006413",
@@ -2091,8 +2245,9 @@
   },
   {
     "number": "0199811809A1",
-    "actualNumber": "1998011809",
-    "publicationDate": "1998-03-26"
+    "actualNumber": "WO199811809A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02014137551",
@@ -2101,8 +2256,9 @@
   },
   {
     "number": "02014047414A1",
-    "actualNumber": "2014004741",
-    "publicationDate": "2014-01-03"
+    "actualNumber": "WO2014047414A1",
+    "country": "WO",
+    "publicationDate": "2014-03-27"
   },
   {
     "number": "02007020284",
@@ -2131,13 +2287,15 @@
   },
   {
     "number": "02012167213A2",
-    "actualNumber": "2012016721",
-    "publicationDate": "2012-02-09"
+    "actualNumber": "WO2012167213A2",
+    "country": "WO",
+    "publicationDate": "2012-12-06"
   },
   {
     "number": "02014113724A2",
-    "actualNumber": "2014011372",
-    "publicationDate": "2014-01-16"
+    "actualNumber": "WO2014113724A2",
+    "country": "WO",
+    "publicationDate": "2014-07-24"
   },
   {
     "number": "02011093454",
@@ -2156,13 +2314,15 @@
   },
   {
     "number": "02009154837A1",
-    "actualNumber": "2009015483",
-    "publicationDate": "2009-02-05"
+    "actualNumber": "WO2009154837A1",
+    "country": "WO",
+    "publicationDate": "2009-12-23"
   },
   {
     "number": "02006024873A2",
-    "actualNumber": "2006002487",
-    "publicationDate": "2006-01-12"
+    "actualNumber": "WO2006024873A2",
+    "country": "WO",
+    "publicationDate": "2006-03-09"
   },
   {
     "number": "09851408",
@@ -2211,8 +2371,9 @@
   },
   {
     "number": "02008118569A2",
-    "actualNumber": "2008011856",
-    "publicationDate": "2008-01-31"
+    "actualNumber": "WO2008118569A2",
+    "country": "WO",
+    "publicationDate": "2008-10-02"
   },
   {
     "number": "09524219",
@@ -2226,12 +2387,14 @@
   },
   {
     "number": "09516377A1",
-    "actualNumber": "1995016377",
+    "actualNumber": "WO9516377A1",
+    "country": "WO",
     "publicationDate": "1995-06-22"
   },
   {
     "number": "09847418A1",
-    "actualNumber": "1998047418",
+    "actualNumber": "WO9847418A1",
+    "country": "WO",
     "publicationDate": "1998-10-29"
   },
   {
@@ -2546,8 +2709,9 @@
   },
   {
     "number": "02009078020A2",
-    "actualNumber": "2009007802",
-    "publicationDate": "2009-01-15"
+    "actualNumber": "WO2009078020A2",
+    "country": "WO",
+    "publicationDate": "2009-06-25"
   },
   {
     "number": "02012007754",
@@ -2906,18 +3070,21 @@
   },
   {
     "number": "02010106191A1",
-    "actualNumber": "2010010619",
-    "publicationDate": "2010-01-28"
+    "actualNumber": "WO2010106191A1",
+    "country": "WO",
+    "publicationDate": "2010-09-23"
   },
   {
     "number": "02012024405A2",
-    "actualNumber": "2012002440",
-    "publicationDate": "2012-01-05"
+    "actualNumber": "WO2012024405A2",
+    "country": "WO",
+    "publicationDate": "2012-02-23"
   },
   {
     "number": "00068860A2",
-    "actualNumber": "2000006886",
-    "publicationDate": "2000-02-10"
+    "actualNumber": "WO0068860A2",
+    "country": "WO",
+    "publicationDate": "2000-11-16"
   },
   {
     "number": "02000068860",
@@ -2931,7 +3098,8 @@
   },
   {
     "number": "00249351A2",
-    "actualNumber": "2002049351",
+    "actualNumber": "WO0249351A2",
+    "country": "WO",
     "publicationDate": "2002-06-20"
   },
   {
@@ -2941,8 +3109,9 @@
   },
   {
     "number": "02014015206A1",
-    "actualNumber": "2014001520",
-    "publicationDate": "2014-01-03"
+    "actualNumber": "WO2014015206A1",
+    "country": "WO",
+    "publicationDate": "2014-01-23"
   },
   {
     "number": "02005066005",
@@ -3491,63 +3660,75 @@
   },
   {
     "number": "00022566A1",
-    "actualNumber": "2000002256",
-    "publicationDate": "2000-01-13"
+    "actualNumber": "WO0022566A1",
+    "country": "WO",
+    "publicationDate": "2000-04-20"
   },
   {
     "number": "003049035A2",
-    "actualNumber": "2003004903",
-    "publicationDate": "2003-01-16"
+    "actualNumber": "WO03049035A2",
+    "country": "WO",
+    "publicationDate": "2003-06-12"
   },
   {
     "number": "02004021264A1",
-    "actualNumber": "2004002126",
-    "publicationDate": "2003-12-31"
+    "actualNumber": "WO2004021264A1",
+    "country": "WO",
+    "publicationDate": "2004-03-11"
   },
   {
     "number": "02004027880A2",
-    "actualNumber": "2004002788",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004027880A2",
+    "country": "WO",
+    "publicationDate": "2004-04-01"
   },
   {
     "number": "02007005714A2",
-    "actualNumber": "2007000571",
-    "publicationDate": "2007-01-04"
+    "actualNumber": "WO2007005714A2",
+    "country": "WO",
+    "publicationDate": "2007-01-11"
   },
   {
     "number": "02008085679A1",
-    "actualNumber": "2008008567",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008085679A1",
+    "country": "WO",
+    "publicationDate": "2008-07-17"
   },
   {
     "number": "02008087652A2",
-    "actualNumber": "2008008765",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008087652A2",
+    "country": "WO",
+    "publicationDate": "2008-07-24"
   },
   {
     "number": "02009123278A1",
-    "actualNumber": "2009012327",
-    "publicationDate": "2009-01-22"
+    "actualNumber": "WO2009123278A1",
+    "country": "WO",
+    "publicationDate": "2009-10-08"
   },
   {
     "number": "02009151903A2",
-    "actualNumber": "2009015190",
-    "publicationDate": "2009-01-29"
+    "actualNumber": "WO2009151903A2",
+    "country": "WO",
+    "publicationDate": "2009-12-17"
   },
   {
     "number": "02010059182A1",
-    "actualNumber": "2010005918",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010059182A1",
+    "country": "WO",
+    "publicationDate": "2010-05-27"
   },
   {
     "number": "02010078563A1",
-    "actualNumber": "2010007856",
-    "publicationDate": "2010-01-21"
+    "actualNumber": "WO2010078563A1",
+    "country": "WO",
+    "publicationDate": "2010-07-08"
   },
   {
     "number": "02006039486A2",
-    "actualNumber": "2006003948",
-    "publicationDate": "2006-01-12"
+    "actualNumber": "WO2006039486A2",
+    "country": "WO",
+    "publicationDate": "2006-04-13"
   },
   {
     "number": "02006125234",
@@ -3566,13 +3747,15 @@
   },
   {
     "number": "09512175A1",
-    "actualNumber": "1995012175",
+    "actualNumber": "WO9512175A1",
+    "country": "WO",
     "publicationDate": "1995-05-04"
   },
   {
     "number": "00014665A1",
-    "actualNumber": "2000001466",
-    "publicationDate": "2000-01-13"
+    "actualNumber": "WO0014665A1",
+    "country": "WO",
+    "publicationDate": "2000-03-16"
   },
   {
     "number": "09719604",
@@ -3586,53 +3769,63 @@
   },
   {
     "number": "00043851A2",
-    "actualNumber": "2000004385",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0043851A2",
+    "country": "WO",
+    "publicationDate": "2000-07-27"
   },
   {
     "number": "09723838A1",
-    "actualNumber": "1997023838",
+    "actualNumber": "WO9723838A1",
+    "country": "WO",
     "publicationDate": "1997-07-03"
   },
   {
     "number": "00021004A1",
-    "actualNumber": "2000002100",
-    "publicationDate": "2000-01-13"
+    "actualNumber": "WO0021004A1",
+    "country": "WO",
+    "publicationDate": "2000-04-13"
   },
   {
     "number": "00231657A2",
-    "actualNumber": "2002031657",
+    "actualNumber": "WO0231657A2",
+    "country": "WO",
     "publicationDate": "2002-04-18"
   },
   {
     "number": "00041121A1",
-    "actualNumber": "2000004112",
-    "publicationDate": "2000-01-27"
+    "actualNumber": "WO0041121A1",
+    "country": "WO",
+    "publicationDate": "2000-07-13"
   },
   {
     "number": "02004043851A1",
-    "actualNumber": "2004004385",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004043851A1",
+    "country": "WO",
+    "publicationDate": "2004-05-27"
   },
   {
     "number": "00062231A1",
-    "actualNumber": "2000006223",
-    "publicationDate": "2000-02-10"
+    "actualNumber": "WO0062231A1",
+    "country": "WO",
+    "publicationDate": "2000-10-19"
   },
   {
     "number": "00113563A2",
-    "actualNumber": "2001013563",
+    "actualNumber": "WO0113563A2",
+    "country": "WO",
     "publicationDate": "2001-02-22"
   },
   {
     "number": "00167355A2",
-    "actualNumber": "2001067355",
+    "actualNumber": "WO0167355A2",
+    "country": "WO",
     "publicationDate": "2001-09-13"
   },
   {
     "number": "00031657A2",
-    "actualNumber": "2000003165",
-    "publicationDate": "2000-01-20"
+    "actualNumber": "WO0031657A2",
+    "country": "WO",
+    "publicationDate": "2000-06-02"
   },
   {
     "number": "09101643",
@@ -3701,13 +3894,15 @@
   },
   {
     "number": "0200031657A2",
-    "actualNumber": "2000031657",
-    "publicationDate": "2000-06-02"
+    "actualNumber": "WO200031657A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "0200043851A2",
-    "actualNumber": "2000043851",
-    "publicationDate": "2000-07-27"
+    "actualNumber": "WO200043851A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02007111994",
@@ -3921,8 +4116,9 @@
   },
   {
     "number": "004103797A2",
-    "actualNumber": "2004010379",
-    "publicationDate": "2004-01-29"
+    "actualNumber": "WO04103797A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "006136536",
@@ -3956,7 +4152,8 @@
   },
   {
     "number": "09959426A2",
-    "actualNumber": "1999059426",
+    "actualNumber": "WO9959426A2",
+    "country": "WO",
     "publicationDate": "1999-11-25"
   },
   {
@@ -3966,12 +4163,14 @@
   },
   {
     "number": "09513095A2",
-    "actualNumber": "1995013095",
+    "actualNumber": "WO9513095A2",
+    "country": "WO",
     "publicationDate": "1995-05-18"
   },
   {
     "number": "09841097A2",
-    "actualNumber": "1998041097",
+    "actualNumber": "WO9841097A2",
+    "country": "WO",
     "publicationDate": "1998-09-24"
   },
   {
@@ -4041,7 +4240,8 @@
   },
   {
     "number": "09957280A2",
-    "actualNumber": "1999057280",
+    "actualNumber": "WO9957280A2",
+    "country": "WO",
     "publicationDate": "1999-11-11"
   },
   {
@@ -4066,8 +4266,9 @@
   },
   {
     "number": "02007106889A2",
-    "actualNumber": "2007010688",
-    "publicationDate": "2007-01-25"
+    "actualNumber": "WO2007106889A2",
+    "country": "WO",
+    "publicationDate": "2007-09-20"
   },
   {
     "number": "02007122902",
@@ -4171,43 +4372,51 @@
   },
   {
     "number": "02010036477A2",
-    "actualNumber": "2010003647",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010036477A2",
+    "country": "WO",
+    "publicationDate": "2010-04-01"
   },
   {
     "number": "0200078650A1",
-    "actualNumber": "2000078650",
-    "publicationDate": "2000-12-28"
+    "actualNumber": "WO200078650A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02005100257A1",
-    "actualNumber": "2005010025",
-    "publicationDate": "2005-02-03"
+    "actualNumber": "WO2005100257A1",
+    "country": "WO",
+    "publicationDate": "2005-10-27"
   },
   {
     "number": "02004033335A1",
-    "actualNumber": "2004003333",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004033335A1",
+    "country": "WO",
+    "publicationDate": "2004-04-22"
   },
   {
     "number": "02004064585A1",
-    "actualNumber": "2004006458",
-    "publicationDate": "2004-01-15"
+    "actualNumber": "WO2004064585A1",
+    "country": "WO",
+    "publicationDate": "2004-08-05"
   },
   {
     "number": "02005107540A1",
-    "actualNumber": "2005010754",
-    "publicationDate": "2005-02-03"
+    "actualNumber": "WO2005107540A1",
+    "country": "WO",
+    "publicationDate": "2005-11-17"
   },
   {
     "number": "02007017849A2",
-    "actualNumber": "2007001784",
-    "publicationDate": "2007-01-04"
+    "actualNumber": "WO2007017849A2",
+    "country": "WO",
+    "publicationDate": "2007-02-15"
   },
   {
     "number": "09957280A3",
-    "actualNumber": "1999057280",
-    "publicationDate": "1999-11-11"
+    "actualNumber": "WO9957280A3",
+    "country": "WO",
+    "publicationDate": "2000-08-24"
   },
   {
     "number": "001044861",
@@ -4466,8 +4675,9 @@
   },
   {
     "number": "02013116241A1",
-    "actualNumber": "2013011624",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013116241A1",
+    "country": "WO",
+    "publicationDate": "2013-08-08"
   },
   {
     "number": "02009049659",
@@ -4816,8 +5026,9 @@
   },
   {
     "number": "02013097941A1",
-    "actualNumber": "2013009794",
-    "publicationDate": "2013-01-17"
+    "actualNumber": "WO2013097941A1",
+    "country": "WO",
+    "publicationDate": "2013-07-04"
   },
   {
     "number": "02009002614",
@@ -4841,8 +5052,9 @@
   },
   {
     "number": "02007079071A1",
-    "actualNumber": "2007007907",
-    "publicationDate": "2007-01-18"
+    "actualNumber": "WO2007079071A1",
+    "country": "WO",
+    "publicationDate": "2007-07-12"
   },
   {
     "number": "02006079543",
@@ -4871,38 +5083,45 @@
   },
   {
     "number": "00119049A2",
-    "actualNumber": "2001019049",
+    "actualNumber": "WO0119049A2",
+    "country": "WO",
     "publicationDate": "2001-03-15"
   },
   {
     "number": "00201373A1",
-    "actualNumber": "2002001373",
+    "actualNumber": "WO0201373A1",
+    "country": "WO",
     "publicationDate": "2002-01-03"
   },
   {
     "number": "003036887A1",
-    "actualNumber": "2003003688",
-    "publicationDate": "2003-01-09"
+    "actualNumber": "WO03036887A1",
+    "country": "WO",
+    "publicationDate": "2003-05-01"
   },
   {
     "number": "00135685A1",
-    "actualNumber": "2001035685",
+    "actualNumber": "WO0135685A1",
+    "country": "WO",
     "publicationDate": "2001-05-17"
   },
   {
     "number": "003075530A1",
-    "actualNumber": "2003007553",
-    "publicationDate": "2003-01-23"
+    "actualNumber": "WO03075530A1",
+    "country": "WO",
+    "publicationDate": "2003-09-12"
   },
   {
     "number": "02005015861A1",
-    "actualNumber": "2005001586",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005015861A1",
+    "country": "WO",
+    "publicationDate": "2005-02-17"
   },
   {
     "number": "02005107177A1",
-    "actualNumber": "2005010717",
-    "publicationDate": "2005-02-03"
+    "actualNumber": "WO2005107177A1",
+    "country": "WO",
+    "publicationDate": "2005-11-10"
   },
   {
     "number": "02012140770",
@@ -4986,18 +5205,21 @@
   },
   {
     "number": "02011039904A1",
-    "actualNumber": "2011003990",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011039904A1",
+    "country": "WO",
+    "publicationDate": "2011-04-07"
   },
   {
     "number": "02007117410A2",
-    "actualNumber": "2007011741",
-    "publicationDate": "2007-01-25"
+    "actualNumber": "WO2007117410A2",
+    "country": "WO",
+    "publicationDate": "2007-10-18"
   },
   {
     "number": "02010039900A2",
-    "actualNumber": "2010003990",
-    "publicationDate": "2010-01-14"
+    "actualNumber": "WO2010039900A2",
+    "country": "WO",
+    "publicationDate": "2010-04-08"
   },
   {
     "number": "02009105154",
@@ -5171,18 +5393,21 @@
   },
   {
     "number": "02009157771A2",
-    "actualNumber": "2009015777",
-    "publicationDate": "2009-02-05"
+    "actualNumber": "WO2009157771A2",
+    "country": "WO",
+    "publicationDate": "2009-12-30"
   },
   {
     "number": "02008076379A2",
-    "actualNumber": "2008007637",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008076379A2",
+    "country": "WO",
+    "publicationDate": "2008-06-26"
   },
   {
     "number": "02009076464A2",
-    "actualNumber": "2009007646",
-    "publicationDate": "2009-01-15"
+    "actualNumber": "WO2009076464A2",
+    "country": "WO",
+    "publicationDate": "2009-06-18"
   },
   {
     "number": "02006092250",
@@ -5206,48 +5431,57 @@
   },
   {
     "number": "02008094178A2",
-    "actualNumber": "2008009417",
-    "publicationDate": "2008-01-24"
+    "actualNumber": "WO2008094178A2",
+    "country": "WO",
+    "publicationDate": "2008-08-07"
   },
   {
     "number": "02008103474A1",
-    "actualNumber": "2008010347",
-    "publicationDate": "2008-01-24"
+    "actualNumber": "WO2008103474A1",
+    "country": "WO",
+    "publicationDate": "2008-08-28"
   },
   {
     "number": "02008151081A1",
-    "actualNumber": "2008015108",
-    "publicationDate": "2008-02-07"
+    "actualNumber": "WO2008151081A1",
+    "country": "WO",
+    "publicationDate": "2008-12-11"
   },
   {
     "number": "02009018411A1",
-    "actualNumber": "2009001841",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009018411A1",
+    "country": "WO",
+    "publicationDate": "2009-02-05"
   },
   {
     "number": "02009023540A1",
-    "actualNumber": "2009002354",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009023540A1",
+    "country": "WO",
+    "publicationDate": "2009-02-19"
   },
   {
     "number": "02009080254A1",
-    "actualNumber": "2009008025",
-    "publicationDate": "2009-01-15"
+    "actualNumber": "WO2009080254A1",
+    "country": "WO",
+    "publicationDate": "2009-07-02"
   },
   {
     "number": "02009094178A2",
-    "actualNumber": "2009009417",
-    "publicationDate": "2009-01-15"
+    "actualNumber": "WO2009094178A2",
+    "country": "WO",
+    "publicationDate": "2009-07-30"
   },
   {
     "number": "09100906A1",
-    "actualNumber": "1991000906",
+    "actualNumber": "WO9100906A1",
+    "country": "WO",
     "publicationDate": "1991-01-24"
   },
   {
     "number": "02009143472A2",
-    "actualNumber": "2009014347",
-    "publicationDate": "2009-01-29"
+    "actualNumber": "WO2009143472A2",
+    "country": "WO",
+    "publicationDate": "2009-11-26"
   },
   {
     "number": "09606006",
@@ -5281,8 +5515,9 @@
   },
   {
     "number": "02008058265A2",
-    "actualNumber": "2008005826",
-    "publicationDate": "2008-01-10"
+    "actualNumber": "WO2008058265A2",
+    "country": "WO",
+    "publicationDate": "2008-05-15"
   },
   {
     "number": "02008085545",
@@ -5291,8 +5526,9 @@
   },
   {
     "number": "02002053596A2",
-    "actualNumber": "2002005359",
-    "publicationDate": "2002-01-17"
+    "actualNumber": "WO2002053596A2",
+    "country": "WO",
+    "error": "noDateFound"
   },
   {
     "number": "02011061303",
@@ -5396,13 +5632,15 @@
   },
   {
     "number": "02011091070A2",
-    "actualNumber": "2011009107",
-    "publicationDate": "2011-01-20"
+    "actualNumber": "WO2011091070A2",
+    "country": "WO",
+    "publicationDate": "2011-07-28"
   },
   {
     "number": "02014182685A1",
-    "actualNumber": "2014018268",
-    "publicationDate": "2014-01-30"
+    "actualNumber": "WO2014182685A1",
+    "country": "WO",
+    "publicationDate": "2014-11-13"
   },
   {
     "number": "02007133372",
@@ -5441,8 +5679,9 @@
   },
   {
     "number": "02013065042A1",
-    "actualNumber": "2013006504",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013065042A1",
+    "country": "WO",
+    "publicationDate": "2013-05-10"
   },
   {
     "number": "02014010660",
@@ -5656,68 +5895,81 @@
   },
   {
     "number": "09219982A1",
-    "actualNumber": "1992019982",
+    "actualNumber": "WO9219982A1",
+    "country": "WO",
     "publicationDate": "1992-11-12"
   },
   {
     "number": "00016581A1",
-    "actualNumber": "2000001658",
-    "publicationDate": "2000-01-13"
+    "actualNumber": "WO0016581A1",
+    "country": "WO",
+    "publicationDate": "2000-03-23"
   },
   {
     "number": "00133481A1",
-    "actualNumber": "2001033481",
+    "actualNumber": "WO0133481A1",
+    "country": "WO",
     "publicationDate": "2001-05-10"
   },
   {
     "number": "00162034A1",
-    "actualNumber": "2001062034",
+    "actualNumber": "WO0162034A1",
+    "country": "WO",
     "publicationDate": "2001-08-23"
   },
   {
     "number": "00176274A2",
-    "actualNumber": "2001076274",
+    "actualNumber": "WO0176274A2",
+    "country": "WO",
     "publicationDate": "2001-10-11"
   },
   {
     "number": "00221875A2",
-    "actualNumber": "2002021875",
+    "actualNumber": "WO0221875A2",
+    "country": "WO",
     "publicationDate": "2002-03-14"
   },
   {
     "number": "02004010719A1",
-    "actualNumber": "2004001071",
-    "publicationDate": "2003-12-31"
+    "actualNumber": "WO2004010719A1",
+    "country": "WO",
+    "publicationDate": "2004-01-29"
   },
   {
     "number": "02005011134A2",
-    "actualNumber": "2005001113",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005011134A2",
+    "country": "WO",
+    "publicationDate": "2005-02-03"
   },
   {
     "number": "02005120123A1",
-    "actualNumber": "2005012012",
-    "publicationDate": "2005-02-10"
+    "actualNumber": "WO2005120123A1",
+    "country": "WO",
+    "publicationDate": "2005-12-15"
   },
   {
     "number": "02006014092A1",
-    "actualNumber": "2006001409",
-    "publicationDate": "2006-01-05"
+    "actualNumber": "WO2006014092A1",
+    "country": "WO",
+    "publicationDate": "2006-02-09"
   },
   {
     "number": "02007076232A2",
-    "actualNumber": "2007007623",
-    "publicationDate": "2007-01-18"
+    "actualNumber": "WO2007076232A2",
+    "country": "WO",
+    "publicationDate": "2007-07-05"
   },
   {
     "number": "02008154218A1",
-    "actualNumber": "2008015421",
-    "publicationDate": "2008-02-07"
+    "actualNumber": "WO2008154218A1",
+    "country": "WO",
+    "publicationDate": "2008-12-18"
   },
   {
     "number": "02009016505A2",
-    "actualNumber": "2009001650",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009016505A2",
+    "country": "WO",
+    "publicationDate": "2009-02-05"
   },
   {
     "number": "02005034833",
@@ -5836,23 +6088,27 @@
   },
   {
     "number": "003061242A1",
-    "actualNumber": "2003006124",
-    "publicationDate": "2003-01-23"
+    "actualNumber": "WO03061242A1",
+    "country": "WO",
+    "publicationDate": "2003-07-24"
   },
   {
     "number": "02004028090A1",
-    "actualNumber": "2004002809",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004028090A1",
+    "country": "WO",
+    "publicationDate": "2004-04-01"
   },
   {
     "number": "02005032090A1",
-    "actualNumber": "2005003209",
-    "publicationDate": "2005-01-13"
+    "actualNumber": "WO2005032090A1",
+    "country": "WO",
+    "publicationDate": "2005-04-07"
   },
   {
     "number": "02006071468A2",
-    "actualNumber": "2006007146",
-    "publicationDate": "2006-01-19"
+    "actualNumber": "WO2006071468A2",
+    "country": "WO",
+    "publicationDate": "2006-07-06"
   },
   {
     "number": "02014018049",
@@ -6071,8 +6327,9 @@
   },
   {
     "number": "02013071981A1",
-    "actualNumber": "2013007198",
-    "publicationDate": "2013-01-17"
+    "actualNumber": "WO2013071981A1",
+    "country": "WO",
+    "publicationDate": "2013-05-23"
   },
   {
     "number": "02006077379",
@@ -6111,13 +6368,15 @@
   },
   {
     "number": "02011066501A1",
-    "actualNumber": "2011006650",
-    "publicationDate": "2011-01-20"
+    "actualNumber": "WO2011066501A1",
+    "country": "WO",
+    "publicationDate": "2011-06-03"
   },
   {
     "number": "02011163314A1",
-    "actualNumber": "2011016331",
-    "publicationDate": "2011-02-10"
+    "actualNumber": "WO2011163314A1",
+    "country": "WO",
+    "publicationDate": "2011-12-29"
   },
   {
     "number": "02006014936",
@@ -6316,8 +6575,9 @@
   },
   {
     "number": "020015069412A1",
-    "actualNumber": "2001050694",
-    "publicationDate": "2001-07-12"
+    "actualNumber": "WO20015069412A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02014179392",
@@ -6346,23 +6606,27 @@
   },
   {
     "number": "02008122886A2",
-    "actualNumber": "2008012288",
-    "publicationDate": "2008-01-31"
+    "actualNumber": "WO2008122886A2",
+    "country": "WO",
+    "publicationDate": "2008-10-16"
   },
   {
     "number": "02012023053A2",
-    "actualNumber": "2012002305",
-    "publicationDate": "2012-01-05"
+    "actualNumber": "WO2012023053A2",
+    "country": "WO",
+    "publicationDate": "2012-02-23"
   },
   {
     "number": "02007096779A2",
-    "actualNumber": "2007009677",
-    "publicationDate": "2007-01-25"
+    "actualNumber": "WO2007096779A2",
+    "country": "WO",
+    "publicationDate": "2007-08-30"
   },
   {
     "number": "02011158009A1",
-    "actualNumber": "2011015800",
-    "publicationDate": "2011-02-10"
+    "actualNumber": "WO2011158009A1",
+    "country": "WO",
+    "publicationDate": "2011-12-22"
   },
   {
     "number": "02007100899",
@@ -6381,7 +6645,8 @@
   },
   {
     "number": "08602537A1",
-    "actualNumber": "1986002537",
+    "actualNumber": "WO8602537A1",
+    "country": "WO",
     "publicationDate": "1986-05-09"
   },
   {
@@ -6411,8 +6676,9 @@
   },
   {
     "number": "02011163311A1",
-    "actualNumber": "2011016331",
-    "publicationDate": "2011-02-10"
+    "actualNumber": "WO2011163311A1",
+    "country": "WO",
+    "publicationDate": "2011-12-29"
   },
   {
     "number": "02007008148",
@@ -6431,13 +6697,15 @@
   },
   {
     "number": "02011072204A1",
-    "actualNumber": "2011007220",
-    "publicationDate": "2011-01-20"
+    "actualNumber": "WO2011072204A1",
+    "country": "WO",
+    "publicationDate": "2011-06-16"
   },
   {
     "number": "02011062207A1",
-    "actualNumber": "2011006220",
-    "publicationDate": "2011-01-20"
+    "actualNumber": "WO2011062207A1",
+    "country": "WO",
+    "publicationDate": "2011-05-26"
   },
   {
     "number": "0WO2012080321",
@@ -6446,12 +6714,14 @@
   },
   {
     "number": "02004047919A2",
-    "actualNumber": "2004004791",
-    "publicationDate": "2004-01-15"
+    "actualNumber": "WO2004047919A2",
+    "country": "WO",
+    "publicationDate": "2004-06-10"
   },
   {
     "number": "00234333A2",
-    "actualNumber": "2002034333",
+    "actualNumber": "WO0234333A2",
+    "country": "WO",
     "publicationDate": "2002-05-02"
   },
   {
@@ -6511,38 +6781,45 @@
   },
   {
     "number": "09004036A1",
-    "actualNumber": "1990004036",
+    "actualNumber": "WO9004036A1",
+    "country": "WO",
     "publicationDate": "1990-04-19"
   },
   {
     "number": "09402602A1",
-    "actualNumber": "1994002602",
+    "actualNumber": "WO9402602A1",
+    "country": "WO",
     "publicationDate": "1994-02-03"
   },
   {
     "number": "09404667A1",
-    "actualNumber": "1994004667",
+    "actualNumber": "WO9404667A1",
+    "country": "WO",
     "publicationDate": "1994-03-03"
   },
   {
     "number": "09630498A1",
-    "actualNumber": "1996030498",
+    "actualNumber": "WO9630498A1",
+    "country": "WO",
     "publicationDate": "1996-10-03"
   },
   {
     "number": "098024893A2",
-    "actualNumber": "1998002489",
-    "publicationDate": "1998-01-22"
+    "actualNumber": "WO98024893A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "099045962A1",
-    "actualNumber": "1999004596",
-    "publicationDate": "1999-01-28"
+    "actualNumber": "WO99045962A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02008022391A1",
-    "actualNumber": "2008002239",
-    "publicationDate": "2008-01-03"
+    "actualNumber": "WO2008022391A1",
+    "country": "WO",
+    "publicationDate": "2008-02-28"
   },
   {
     "number": "09931575",
@@ -6551,8 +6828,9 @@
   },
   {
     "number": "02013112570A1",
-    "actualNumber": "2013011257",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013112570A1",
+    "country": "WO",
+    "publicationDate": "2013-08-01"
   },
   {
     "number": "09320157",
@@ -6576,48 +6854,57 @@
   },
   {
     "number": "00208409A2",
-    "actualNumber": "2002008409",
+    "actualNumber": "WO0208409A2",
+    "country": "WO",
     "publicationDate": "2002-01-31"
   },
   {
     "number": "02005019463A1",
-    "actualNumber": "2005001946",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005019463A1",
+    "country": "WO",
+    "publicationDate": "2005-03-03"
   },
   {
     "number": "02009118524A2",
-    "actualNumber": "2009011852",
-    "publicationDate": "2009-01-22"
+    "actualNumber": "WO2009118524A2",
+    "country": "WO",
+    "publicationDate": "2009-10-01"
   },
   {
     "number": "09929837A2",
-    "actualNumber": "1999029837",
+    "actualNumber": "WO9929837A2",
+    "country": "WO",
     "publicationDate": "1999-06-17"
   },
   {
     "number": "00104288A1",
-    "actualNumber": "2001004288",
+    "actualNumber": "WO0104288A1",
+    "country": "WO",
     "publicationDate": "2001-01-18"
   },
   {
     "number": "002066630A1",
-    "actualNumber": "2002006663",
-    "publicationDate": "2002-01-24"
+    "actualNumber": "WO02066630A1",
+    "country": "WO",
+    "publicationDate": "2002-08-29"
   },
   {
     "number": "02009013620A2",
-    "actualNumber": "2009001362",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009013620A2",
+    "country": "WO",
+    "publicationDate": "2009-01-29"
   },
   {
     "number": "02011004192A1",
-    "actualNumber": "2011000419",
-    "publicationDate": "2011-01-06"
+    "actualNumber": "WO2011004192A1",
+    "country": "WO",
+    "publicationDate": "2011-01-13"
   },
   {
     "number": "02008118970A2",
-    "actualNumber": "2008011897",
-    "publicationDate": "2008-01-31"
+    "actualNumber": "WO2008118970A2",
+    "country": "WO",
+    "publicationDate": "2008-10-02"
   },
   {
     "number": "02004022233",
@@ -6676,43 +6963,51 @@
   },
   {
     "number": "09404678A1",
-    "actualNumber": "1994004678",
+    "actualNumber": "WO9404678A1",
+    "country": "WO",
     "publicationDate": "1994-03-03"
   },
   {
     "number": "02004041862A2",
-    "actualNumber": "2004004186",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004041862A2",
+    "country": "WO",
+    "publicationDate": "2004-05-21"
   },
   {
     "number": "02004041863A2",
-    "actualNumber": "2004004186",
-    "publicationDate": "2004-01-08"
+    "actualNumber": "WO2004041863A2",
+    "country": "WO",
+    "publicationDate": "2004-05-21"
   },
   {
     "number": "02010109165A2",
-    "actualNumber": "2010010916",
-    "publicationDate": "2010-01-28"
+    "actualNumber": "WO2010109165A2",
+    "country": "WO",
+    "publicationDate": "2010-09-30"
   },
   {
     "number": "02011004129A1",
-    "actualNumber": "2011000412",
-    "publicationDate": "2011-01-06"
-  },
-  {
-    "number": "02011027180A1",
-    "actualNumber": "2011002718",
-    "publicationDate": "2011-01-06"
-  },
-  {
-    "number": "02011044050A2",
-    "actualNumber": "2011004405",
+    "actualNumber": "WO2011004129A1",
+    "country": "WO",
     "publicationDate": "2011-01-13"
   },
   {
+    "number": "02011027180A1",
+    "actualNumber": "WO2011027180A1",
+    "country": "WO",
+    "publicationDate": "2011-03-10"
+  },
+  {
+    "number": "02011044050A2",
+    "actualNumber": "WO2011044050A2",
+    "country": "WO",
+    "publicationDate": "2011-04-14"
+  },
+  {
     "number": "02013061098A2",
-    "actualNumber": "2013006109",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013061098A2",
+    "country": "WO",
+    "publicationDate": "2013-05-02"
   },
   {
     "number": "02013096142",
@@ -6721,8 +7016,9 @@
   },
   {
     "number": "02013116609A1",
-    "actualNumber": "2013011660",
-    "publicationDate": "2013-01-24"
+    "actualNumber": "WO2013116609A1",
+    "country": "WO",
+    "publicationDate": "2013-08-08"
   },
   {
     "number": "02013128467",
@@ -6761,28 +7057,33 @@
   },
   {
     "number": "02012141798A1",
-    "actualNumber": "2012014179",
-    "publicationDate": "2012-02-02"
+    "actualNumber": "WO2012141798A1",
+    "country": "WO",
+    "publicationDate": "2012-10-18"
   },
   {
     "number": "02012148873A2",
-    "actualNumber": "2012014887",
-    "publicationDate": "2012-02-02"
+    "actualNumber": "WO2012148873A2",
+    "country": "WO",
+    "publicationDate": "2012-11-01"
   },
   {
     "number": "02013041844A2",
-    "actualNumber": "2013004184",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013041844A2",
+    "country": "WO",
+    "publicationDate": "2013-03-28"
   },
   {
     "number": "02013041845A2",
-    "actualNumber": "2013004184",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013041845A2",
+    "country": "WO",
+    "publicationDate": "2013-03-28"
   },
   {
     "number": "02013059230A1",
-    "actualNumber": "2013005923",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013059230A1",
+    "country": "WO",
+    "publicationDate": "2013-04-25"
   },
   {
     "number": "02009045536",
@@ -6801,38 +7102,45 @@
   },
   {
     "number": "02013022782A1",
-    "actualNumber": "2013002278",
-    "publicationDate": "2013-01-03"
+    "actualNumber": "WO2013022782A1",
+    "country": "WO",
+    "publicationDate": "2013-02-14"
   },
   {
     "number": "02010097385A1",
-    "actualNumber": "2010009738",
-    "publicationDate": "2010-01-28"
+    "actualNumber": "WO2010097385A1",
+    "country": "WO",
+    "publicationDate": "2010-09-02"
   },
   {
     "number": "02010113039A1",
-    "actualNumber": "2010011303",
-    "publicationDate": "2010-01-28"
+    "actualNumber": "WO2010113039A1",
+    "country": "WO",
+    "publicationDate": "2010-10-07"
   },
   {
     "number": "02011008093A1",
-    "actualNumber": "2011000809",
-    "publicationDate": "2011-01-06"
+    "actualNumber": "WO2011008093A1",
+    "country": "WO",
+    "publicationDate": "2011-01-20"
   },
   {
     "number": "02011056864A1",
-    "actualNumber": "2011005686",
-    "publicationDate": "2011-01-13"
+    "actualNumber": "WO2011056864A1",
+    "country": "WO",
+    "publicationDate": "2011-05-12"
   },
   {
     "number": "02011097603A1",
-    "actualNumber": "2011009760",
-    "publicationDate": "2011-01-27"
+    "actualNumber": "WO2011097603A1",
+    "country": "WO",
+    "publicationDate": "2011-08-11"
   },
   {
     "number": "02012018764A1",
-    "actualNumber": "2012001876",
-    "publicationDate": "2012-01-05"
+    "actualNumber": "WO2012018764A1",
+    "country": "WO",
+    "publicationDate": "2012-02-09"
   },
   {
     "number": "02006135933",
@@ -6841,8 +7149,9 @@
   },
   {
     "number": "002036789A2",
-    "actualNumber": "2002003678",
-    "publicationDate": "2002-01-10"
+    "actualNumber": "WO02036789A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02013085499",
@@ -6851,28 +7160,33 @@
   },
   {
     "number": "02007069666A1",
-    "actualNumber": "2007006966",
-    "publicationDate": "2007-01-18"
+    "actualNumber": "WO2007069666A1",
+    "country": "WO",
+    "publicationDate": "2007-06-21"
   },
   {
     "number": "02008118820A2",
-    "actualNumber": "2008011882",
-    "publicationDate": "2008-01-31"
+    "actualNumber": "WO2008118820A2",
+    "country": "WO",
+    "publicationDate": "2008-10-02"
   },
   {
     "number": "02008124133A1",
-    "actualNumber": "2008012413",
-    "publicationDate": "2008-01-31"
+    "actualNumber": "WO2008124133A1",
+    "country": "WO",
+    "publicationDate": "2008-10-16"
   },
   {
     "number": "02008151058A2",
-    "actualNumber": "2008015105",
-    "publicationDate": "2008-02-07"
+    "actualNumber": "WO2008151058A2",
+    "country": "WO",
+    "publicationDate": "2008-12-11"
   },
   {
     "number": "02009006997A1",
-    "actualNumber": "2009000699",
-    "publicationDate": "2008-12-31"
+    "actualNumber": "WO2009006997A1",
+    "country": "WO",
+    "publicationDate": "2009-01-15"
   },
   {
     "number": "02013079964",
@@ -6901,8 +7215,9 @@
   },
   {
     "number": "02006064468A1",
-    "actualNumber": "2006006446",
-    "publicationDate": "2006-01-19"
+    "actualNumber": "WO2006064468A1",
+    "country": "WO",
+    "publicationDate": "2006-06-22"
   },
   {
     "number": "003048195",
@@ -7116,33 +7431,39 @@
   },
   {
     "number": "004012811A1",
-    "actualNumber": "2004001281",
-    "publicationDate": "2003-12-31"
+    "actualNumber": "WO04012811A1",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "02007047681A2",
-    "actualNumber": "2007004768",
-    "publicationDate": "2007-01-11"
+    "actualNumber": "WO2007047681A2",
+    "country": "WO",
+    "publicationDate": "2007-04-26"
   },
   {
     "number": "09312714A1",
-    "actualNumber": "1993012714",
+    "actualNumber": "WO9312714A1",
+    "country": "WO",
     "publicationDate": "1993-07-08"
   },
   {
     "number": "02007059386A2",
-    "actualNumber": "2007005938",
-    "publicationDate": "2007-01-11"
+    "actualNumber": "WO2007059386A2",
+    "country": "WO",
+    "publicationDate": "2007-05-24"
   },
   {
     "number": "09837926A1",
-    "actualNumber": "1998037926",
+    "actualNumber": "WO9837926A1",
+    "country": "WO",
     "publicationDate": "1998-09-03"
   },
   {
     "number": "02006065394A1",
-    "actualNumber": "2006006539",
-    "publicationDate": "2006-01-19"
+    "actualNumber": "WO2006065394A1",
+    "country": "WO",
+    "publicationDate": "2006-06-22"
   },
   {
     "number": "02010011206",
@@ -7191,43 +7512,51 @@
   },
   {
     "number": "002043478A2",
-    "actualNumber": "2002004347",
-    "publicationDate": "2002-01-17"
+    "actualNumber": "WO02043478A2",
+    "country": "WO",
+    "error": "noResults"
   },
   {
     "number": "002070648A2",
-    "actualNumber": "2002007064",
-    "publicationDate": "2002-01-24"
+    "actualNumber": "WO02070648A2",
+    "country": "WO",
+    "publicationDate": "2002-09-12"
   },
   {
     "number": "003006639A1",
-    "actualNumber": "2003000663",
-    "publicationDate": "2003-01-03"
-  },
-  {
-    "number": "02003047336A2",
-    "actualNumber": "2003004733",
-    "publicationDate": "2003-01-16"
-  },
-  {
-    "number": "002059263A2",
-    "actualNumber": "2002005926",
-    "publicationDate": "2002-01-24"
-  },
-  {
-    "number": "02003061363A2",
-    "actualNumber": "2003006136",
+    "actualNumber": "WO03006639A1",
+    "country": "WO",
     "publicationDate": "2003-01-23"
   },
   {
+    "number": "02003047336A2",
+    "actualNumber": "WO2003047336A2",
+    "country": "WO",
+    "error": "noDateFound"
+  },
+  {
+    "number": "002059263A2",
+    "actualNumber": "WO02059263A2",
+    "country": "WO",
+    "publicationDate": "2002-08-01"
+  },
+  {
+    "number": "02003061363A2",
+    "actualNumber": "WO2003061363A2",
+    "country": "WO",
+    "error": "noDateFound"
+  },
+  {
     "number": "02004050838A2",
-    "actualNumber": "2004005083",
-    "publicationDate": "2004-01-15"
+    "actualNumber": "WO2004050838A2",
+    "country": "WO",
+    "publicationDate": "2004-06-17"
   },
   {
     "number": "02005003364A2",
-    "actualNumber": "2005000336",
-    "publicationDate": "2005-01-06"
+    "actualNumber": "WO2005003364A2",
+    "country": "WO",
+    "publicationDate": "2005-01-13"
   },
   {
     "number": "02006044492",
@@ -7236,18 +7565,21 @@
   },
   {
     "number": "02006122442A1",
-    "actualNumber": "2006012244",
-    "publicationDate": "2006-02-02"
+    "actualNumber": "WO2006122442A1",
+    "country": "WO",
+    "publicationDate": "2006-11-23"
   },
   {
     "number": "02008054606A2",
-    "actualNumber": "2008005460",
-    "publicationDate": "2008-01-10"
+    "actualNumber": "WO2008054606A2",
+    "country": "WO",
+    "publicationDate": "2008-05-08"
   },
   {
     "number": "02008070367A2",
-    "actualNumber": "2008007036",
-    "publicationDate": "2008-01-17"
+    "actualNumber": "WO2008070367A2",
+    "country": "WO",
+    "publicationDate": "2008-06-12"
   },
   {
     "number": "02006086603",
@@ -7326,7 +7658,8 @@
   },
   {
     "number": "00107985A2",
-    "actualNumber": "2001007985",
+    "actualNumber": "WO0107985A2",
+    "country": "WO",
     "publicationDate": "2001-02-01"
   },
   {
@@ -7581,18 +7914,21 @@
   },
   {
     "number": "02013055399A1",
-    "actualNumber": "2013005539",
-    "publicationDate": "2013-01-10"
+    "actualNumber": "WO2013055399A1",
+    "country": "WO",
+    "publicationDate": "2013-04-18"
   },
   {
     "number": "02014075108A2",
-    "actualNumber": "2014007510",
-    "publicationDate": "2014-01-09"
+    "actualNumber": "WO2014075108A2",
+    "country": "WO",
+    "publicationDate": "2014-05-15"
   },
   {
     "number": "02007023991A1",
-    "actualNumber": "2007002399",
-    "publicationDate": "2007-01-04"
+    "actualNumber": "WO2007023991A1",
+    "country": "WO",
+    "publicationDate": "2007-03-01"
   },
   {
     "number": "02008021290",
